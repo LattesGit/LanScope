@@ -1,6 +1,6 @@
 FROM python:3.11-slim
 
-LABEL maintainer="LaxenT <your@email.com>"
+LABEL maintainer="LaxenT <[REDACTED]>"
 LABEL description="LanScope - LAN reconnaissance (hardened)"
 
 # Sistem bağımlılıkları
